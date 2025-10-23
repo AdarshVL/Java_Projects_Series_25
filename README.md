@@ -86,7 +86,7 @@ You’ll build **25+ projects** with step-by-step guides, clean code, and concep
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI | Data Science | Computer Vision Enthusiast
+💼 AI | Data Science | Python and Java Enthusiast
 
 📧 [Email](adarshlilhare@example.com)
 
