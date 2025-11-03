@@ -81,12 +81,15 @@ You’ll build **25+ projects** with step-by-step guides, clean code, and concep
 - [Servlet-based Login System (JSP + MySQL)](week6-advanced/servlet-login/LoginServletApp.java)  
 - [Student Management REST API (Spring Boot)](week6-advanced/spring-boot-api/StudentAPI.java)
 
+
+## 👨‍💻 Author
+
 ---
-### 👨‍💻 Adarsh Lilhare 
+### Adarsh Lilhare 
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI | Data Science | Python and Java Enthusiast
+💼 AI & Data Science Student | 💻  Python and Java Developer | 🌍 Open Source Contributor 
 
 📧 [Email](adarshlilhare@example.com)
 
@@ -97,4 +100,3 @@ You’ll build **25+ projects** with step-by-step guides, clean code, and concep
 🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
 
 ---
-
